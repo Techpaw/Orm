@@ -1,0 +1,12 @@
+/.idea/
+/test_package/
+/cmake-build-debug/
+/CMakeFiles/
+/bin/
+/cmake_install.cmake
+/CmakeCache.txt
+/conanbuildinfo.cmake
+/conanbuildinfo.txt
+/conaninfo.txt
+/Makefile
+/orm.cbp

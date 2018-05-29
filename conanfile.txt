@@ -1,0 +1,6 @@
+[requires]
+boost_lexical_cast/1.65.1@bincrafters/stable
+libpqxx/6.2.0@trigger-happy/testing
+
+[generators]
+cmake
